@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anupam Jana
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
+- 
 - 📫 How to reach me anupamjana6684@gmail.com
 - ⚡ Fun fact: I love building web applications and exploring new technologies!
 
