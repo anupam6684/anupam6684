@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Anupam Jana
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning React
+- 🚀 Full-Stack Developer | MERN & Next.js
+- 🛒 Building OneCart
+- ⚡ React • Next.js • Node.js • Express.js • MongoDB
+- 🌱 Learning System Design
 - 
 - 📫 How to reach me anupamjana6684@gmail.com
 - ⚡ Fun fact: I love building web applications and exploring new technologies!
